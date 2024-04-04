@@ -1,3 +1,4 @@
-Name: X
-Age: xx
+Name: X-xx
+Age: xx+xx
 Favorite Color: Green
+Least Favorite Color: none
